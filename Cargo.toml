@@ -8,19 +8,15 @@ edition = "2021"
 [dependencies]
 rand = "0.8.5"
 nalgebra = "0.33.0"
-anyhow = "1.0.83"
+anyhow = "1.0.86"
 rand_chacha = "0.3.1"
 arrayref = "0.3.8"
-
-candle-core = { git = "https://github.com/huggingface/candle.git" }
-candle-nn = { git = "https://github.com/huggingface/candle.git" }
-
-del-canvas-core = { path="../del-canvas/del-canvas-core"}
-del-candle = { path="../del-candle"}
-del-geo-core = { path = "../del-geo/del-geo-core"}
-del-geo-nalgebra = { path = "../del-geo/del-geo-nalgebra"}
-del-msh-core = { path = "../del-msh/del-msh-core"}
-#　del-geo = "0.1.27"
-# del-msh = "0.1.31"
+candle-core = "0.6.0"
+candle-nn = "0.6.0"
+del-geo-core = "0.1.29"
+del-geo-nalgebra = "0.1.29"
+del-msh-core = "0.1.34"
+del-canvas-core = "0.1.1"
+del-candle = "0.1.0"
 
 
