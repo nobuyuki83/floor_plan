@@ -31,4 +31,25 @@ run --example 0_shapeA --release
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_1.gif?raw=true)
 
 
+```bash
+run --example 1_shapeB --release
+```
+
+![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_1.gif?raw=true)
+
+
+```bash
+run --example 2_shapeC --release
+```
+
+![](https://github.com/nobuyuki83/floor_plan/blob/images/2_shapeC_4.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/2_shapeC_7.gif?raw=true)
+
+
+```bash
+run --example 3_duck --release
+```
+
+![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_7.gif?raw=true)
+
+
 
