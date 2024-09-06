@@ -10,7 +10,7 @@
 
 ## Publication
 
-Xuanyu Wu, Kenji Tojo, Nobuyuki Umetani, "Free-form Floor Plan Design using Differentiable Voronoi Diagram," Pacific Graphics 2024 proceedings 
+> Xuanyu Wu, Kenji Tojo, Nobuyuki Umetani, "Free-form Floor Plan Design using Differentiable Voronoi Diagram," In Proceedings of Pacific Graphics 2024
 
 
 
