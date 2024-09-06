@@ -20,15 +20,15 @@ Designing floor plans is difficult because various constraints must be satisfied
 
 
 
-## How to build
+## How to run
 
 The demos are written in `Rust`. If you don't have Rust on your computer, please install the Rust development environment.
 
 ```bash
-cargo build 
+run --example 0_shapeA --release
 ```
 
-
+https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_0.gif?raw=true https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_2.gif?raw=true 
 
 
 
