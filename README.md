@@ -24,20 +24,18 @@ Designing floor plans is difficult because various constraints must be satisfied
 
 The demos are written in `Rust`. If you don't have Rust on your computer, please install the Rust development environment. Here is the list of commands that generate GIF animations of convergence.
 
-```bash
-run --example 0_shapeA --release
-```
-The resulting animation (left: random seed = 0, right: random seed = 1)
+The command ```run --example 0_shapeA --release``` results in animations (left: random seed = 0, right: random seed = 1)
+
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_1.gif?raw=true)
 
 
-```bash
-run --example 1_shapeB --release
-```
+----
 
-resulting animation (left: random seed = 0, right: random seed = 1)
+The command ```run --example 1_shapeB --release``` results in animations  (left: random seed = 0, right: random seed = 1)
+
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_1.gif?raw=true)
 
+---
 
 ```bash
 run --example 2_shapeC --release
