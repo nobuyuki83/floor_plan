@@ -49,7 +49,7 @@ run --example 2_shapeC --release
 run --example 3_duck --release
 ```
 
-![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_7.gif?raw=true)
+![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_5.gif?raw=true)
 
 
 
