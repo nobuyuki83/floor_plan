@@ -4,7 +4,7 @@
 
 
 
-|[Paper PDF](https://www.dropbox.com/scl/fi/ohj2uzvg12fejukkffw0q/2024_pg24_floorplan.pdf?rlkey=8magkoslj77d5o31a7zto01mt&dl=0)|
+|[Paper PDF](https://www.dropbox.com/scl/fi/culi7j1v14r9ax98rfmd6/2024_pg24_floorplan.pdf?rlkey=s5xwncuybrtsj5vyphhn61u0h&dl=0)|
 
 
 
@@ -22,12 +22,12 @@ Designing floor plans is difficult because various constraints must be satisfied
 
 ## How to run
 
-The demos are written in `Rust`. If you don't have Rust on your computer, please install the Rust development environment.
+The demos are written in `Rust`. If you don't have Rust on your computer, please install the Rust development environment. Here is the list of commands that generate GIF animations of convergence.
 
 ```bash
 run --example 0_shapeA --release
 ```
-
+The resulting animation (left: random seed = 0, right: random seed = 1)
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_1.gif?raw=true)
 
 
@@ -35,6 +35,7 @@ run --example 0_shapeA --release
 run --example 1_shapeB --release
 ```
 
+resulting animation (left: random seed = 0, right: random seed = 1)
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_1.gif?raw=true)
 
 
