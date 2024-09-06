@@ -1,5 +1,9 @@
 # Free-form Floor Plan Design using Differentiable Voronoi Diagram
 
+![](https://github.com/nobuyuki83/floor_plan/blob/images/teaser.png?raw=true)
+
+
+
 |[Paper PDF](https://www.dropbox.com/scl/fi/ohj2uzvg12fejukkffw0q/2024_pg24_floorplan.pdf?rlkey=8magkoslj77d5o31a7zto01mt&dl=0)|
 
 
