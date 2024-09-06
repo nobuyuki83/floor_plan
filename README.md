@@ -24,29 +24,27 @@ Designing floor plans is difficult because various constraints must be satisfied
 
 The demos are written in `Rust`. If you don't have Rust on your computer, please install the Rust development environment. Here is the list of commands that generate GIF animations of convergence.
 
-The command ```run --example 0_shapeA --release``` results in animations (left: random seed = 0, right: random seed = 1)
+The command ```run --example 0_shapeA --release``` results in following animations (left: random seed = 0, right: random seed = 1)
 
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/0_shapeA_1.gif?raw=true)
 
 
 ----
 
-The command ```run --example 1_shapeB --release``` results in animations  (left: random seed = 0, right: random seed = 1)
+The command ```run --example 1_shapeB --release``` results in following animations  (left: random seed = 0, right: random seed = 1)
 
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/1_shapeB_1.gif?raw=true)
 
 ---
 
-```bash
-run --example 2_shapeC --release
-```
+The command ```run --example 2_shapeC --release``` results in following animations  (left: random seed = 4, right: random seed = 7)
 
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/2_shapeC_4.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/2_shapeC_7.gif?raw=true)
 
 
-```bash
-run --example 3_duck --release
-```
+----
+
+The command ```run --example 3_duck --release``` results in following animations (left: random seed = 0, right: random seed = 5)
 
 ![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_0.gif?raw=true)  ![](https://github.com/nobuyuki83/floor_plan/blob/images/3_duck_5.gif?raw=true)
 
